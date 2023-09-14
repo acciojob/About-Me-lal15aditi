@@ -1,1 +1,42 @@
 
+* {
+    /* background-color: rgba(0, 0, 255, 0.2); */
+    /* background-color: blue; */
+}
+
+
+.main {
+    display: flex;
+    gap: 100px;
+    justify-content: space-evenly;
+}
+
+.img-name {
+    display: flex;
+    gap: 50px;
+}
+
+.img-name img{
+    width: 150px;
+    height: 150px;
+}
+
+.details p{
+    display: flex;
+    gap: 5px;
+}
+
+.skills {
+    margin-top: 20px;
+}
+
+.skills-heading {
+    font-size: 20px;
+}
+
+.about-heading {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px;
+    te
+}
